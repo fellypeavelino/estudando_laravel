@@ -1,0 +1,6 @@
+
+                                                                            
+  [Symfony\Component\Debug\Exception\FatalErrorException]                   
+  Call to undefined method Illuminate\Foundation\Application::bindShared()  
+                                                                            
+

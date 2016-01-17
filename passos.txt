@@ -1,0 +1,4 @@
+php artisan make:model nome
+php artisan make:migrate
+php artisan make:controller nome
+php artisan serve
