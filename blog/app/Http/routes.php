@@ -25,6 +25,8 @@ Route::get('contato', array('as' => 'contato', 'uses' =>'HomeController@contato'
 
 Route::post('contato', 'HomeController@postContato');
 
+Route::resource('tasks', 'TasksController@create');
+
 
 /*
 |--------------------------------------------------------------------------
